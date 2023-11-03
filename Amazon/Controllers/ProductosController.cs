@@ -11,7 +11,10 @@ namespace Amazon.Controllers
         // GET: Productos
         public ActionResult Index()
         {
-            return View();
+
+
+
+            return View(productos);
         }
 
         //public ActionResult Detalles(int id)
