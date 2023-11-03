@@ -9,13 +9,13 @@ namespace Amazon.Controllers
     public class ProductosController : Controller
     {
         // GET: Productos
-        public ActionResult Index()
-        {
+        //public ActionResult Index()
+        //{
 
 
 
-            return View(productos);
-        }
+        //    return View(productos);
+        //}
 
         //public ActionResult Detalles(int id)
         //{
